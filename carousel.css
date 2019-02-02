@@ -21,6 +21,7 @@ main {
 
 .card-img-top {
   object-fit: contain;
+  max-height: 190px;
 }
 
 .index-title {
